@@ -77,11 +77,6 @@ cython_debug/
 Thumbs.db
 Desktop.ini
 
-# Generated plots or outputs (optional)
-eda_plots/
-output/
-reports/
-
 # Cache
 .cache/
 

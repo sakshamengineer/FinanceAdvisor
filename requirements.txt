@@ -1,5 +1,8 @@
+streamlit
 pandas
 numpy
-scikit-learn
+matplotlib
 plotly
-streamlit
+scikit-learn
+statsmodels
+torch
