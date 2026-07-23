@@ -68,6 +68,15 @@ KEYWORD_MAP = {
     "Income": ["salary", "refund", "cashback", "interest credit"],
 }
 
+def resolve_path(*candidates):
+    """Return the first existing path among candidates — handles cases where
+    files ended up flat in the repo root instead of nested in data/eda_plots
+    (e.g. from GitHub's web upload UI, which doesn't preserve folder structure
+    unless the folder is created first)."""
+    for path in candidates:
+        if os.path.exists(path):
+            return path
+    return candidates[0]
 
 def keyword_categorize(description: str) -> str:
     desc = str(description).lower()
@@ -238,8 +247,8 @@ if using_upload:
                 unsafe_allow_html=True)
 else:
     REQUIRED_FILES = {
-        "categorized": f"{DATA_DIR}/transactions_categorized.csv",
-        "budget": f"{DATA_DIR}/budget_recommendations.csv",
+        "categorized": resolve_path(f"{DATA_DIR}/transactions_categorized.csv"),
+        "budget": resolve_path(f"{DATA_DIR}/budget_recommendations.csv"),
     }
     missing = [name for name, path in REQUIRED_FILES.items() if not os.path.exists(path)]
     if missing:
@@ -315,7 +324,7 @@ with tab2:
         st.dataframe(predicted_rows[["Date", "Description", "Category", "Amount"]], use_container_width=True)
 
     if not using_upload:
-        cm_path = f"{PLOTS_DIR}/categorization_confusion_matrix.png"
+        cm_path = resolve_path(f"{PLOTS_DIR}/categorization_confusion_matrix.png")
         if os.path.exists(cm_path):
             st.subheader("Model Evaluation — Confusion Matrix")
             try:
@@ -339,7 +348,7 @@ with tab3:
         "statistical model) and LSTM (recurrent neural network). See the report/README "
         "for why one may outperform the other given the amount of data available."
     )
-    forecast_path = f"{PLOTS_DIR}/forecast_comparison.png"
+    forecast_path = resolve_path(f"{PLOTS_DIR}/forecast_comparison.png", "forecast_comparison.png")
     if os.path.exists(forecast_path):
         try:
             st.image(forecast_path, use_container_width=True)
@@ -348,7 +357,7 @@ with tab3:
     else:
         st.warning("Run `python forecast.py` to generate the forecast comparison plot.")
 
-    next_month_path = f"{DATA_DIR}/next_month_prediction.csv"
+    next_month_path = resolve_path(f"{DATA_DIR}/next_month_prediction.csv")
     if os.path.exists(next_month_path):
         pred = pd.read_csv(next_month_path, index_col=0)
         predicted_value = pred.iloc[0, 0]
