@@ -339,7 +339,7 @@ with tab3:
         "statistical model) and LSTM (recurrent neural network). See the report/README "
         "for why one may outperform the other given the amount of data available."
     )
-    forecast_path = r"eda_plots\forecast_comparison.png"
+    forecast_path = f"{PLOTS_DIR}/forecast_comparison.png"
     if os.path.exists(forecast_path):
         try:
             st.image(forecast_path, use_container_width=True)
