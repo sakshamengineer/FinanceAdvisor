@@ -1,0 +1,758 @@
+Date,Description,Amount,Type,Category,PaymentMode,Year,Month,YearMonth,CategoryPredicted
+2025-09-01,Salary Credit - Employer,31762.06,Credit,Income,NetBanking,2025,9,2025-09,False
+2025-09-02,Reliance Fresh,1624.58,Debit,Groceries,Debit Card,2025,9,2025-09,False
+2025-09-02,Zomato,381.17,Debit,Food,Credit Card,2025,9,2025-09,False
+2025-09-02,Dominos,106.07,Debit,Food,Debit Card,2025,9,2025-09,False
+2025-09-02,Jio Recharge,924.72,Debit,Bills,UPI,2025,9,2025-09,False
+2025-09-03,swiggy,389.42,Debit,Food,NetBanking,2025,9,2025-09,False
+2025-09-03,Groww SIP,5968.37,Debit,Investment,NetBanking,2025,9,2025-09,False
+2025-09-03,SWIGGY,359.57,Debit,Food,Credit Card,2025,9,2025-09,False
+2025-09-03,Rent Payment - Landlord,8000.0,Debit,Rent,UPI,2025,9,2025-09,False
+2025-09-03,Swiggy,561.71,Debit,Food,UPI,2025,9,2025-09,False
+2025-09-04,Local Kirana Store,2359.54,Debit,Groceries,UPI,2025,9,2025-09,False
+2025-09-04,Local Clinic,2830.63,Debit,Health,Credit Card,2025,9,2025-09,False
+2025-09-04,Spotify,166.95,Debit,Entertainment,Debit Card,2025,9,2025-09,True
+2025-09-04,McDonald's,266.67,Debit,Food,UPI,2025,9,2025-09,False
+2025-09-05,Local Clinic,868.15,Debit,Health,UPI,2025,9,2025-09,False
+2025-09-05,AMAZON.IN,2057.4,Debit,Shopping,UPI,2025,9,2025-09,False
+2025-09-06,Ajio,567.33,Debit,Shopping,Credit Card,2025,9,2025-09,False
+2025-09-06,ola,160.92,Debit,Transport,UPI,2025,9,2025-09,False
+2025-09-07,McDonald's,563.04,Debit,Food,NetBanking,2025,9,2025-09,False
+2025-09-07,Dominos,420.83,Debit,Food,Debit Card,2025,9,2025-09,False
+2025-09-08,Netflix,233.3,Debit,Entertainment,Credit Card,2025,9,2025-09,False
+2025-09-09,Steam Games,622.66,Debit,Entertainment,Debit Card,2025,9,2025-09,False
+2025-09-09,PPF Deposit,9746.99,Debit,Investment,UPI,2025,9,2025-09,False
+2025-09-09,Electricity Board,479.86,Debit,Bills,UPI,2025,9,2025-09,False
+2025-09-10,Zepto,1172.92,Debit,Groceries,NetBanking,2025,9,2025-09,False
+2025-09-11,Local Kirana Store,748.98,Debit,Groceries,Debit Card,2025,9,2025-09,False
+2025-09-12,Local Clinic,736.03,Debit,Health,UPI,2025,9,2025-09,False
+2025-09-12,Rent Payment - Landlord,8000.0,Debit,Rent,UPI,2025,9,2025-09,False
+2025-09-13,PharmEasy,106.25,Debit,Health,Debit Card,2025,9,2025-09,True
+2025-09-13,Apollo Pharmacy,906.12,Debit,Health,NetBanking,2025,9,2025-09,False
+2025-09-14,Ola Cabs,104.33,Debit,Transport,UPI,2025,9,2025-09,False
+2025-09-14,AMAZON.IN,898.99,Debit,Shopping,UPI,2025,9,2025-09,True
+2025-09-15,Rapido,86.87,Debit,Transport,UPI,2025,9,2025-09,False
+2025-09-15,Zomato*Order,244.41,Debit,Food,UPI,2025,9,2025-09,False
+2025-09-15,Apollo Pharmacy,2443.26,Debit,Health,Credit Card,2025,9,2025-09,False
+2025-09-15,UBER,421.86,Debit,Transport,NetBanking,2025,9,2025-09,False
+2025-09-15,ola,436.0,Debit,Transport,UPI,2025,9,2025-09,False
+2025-09-16,Local Kirana Store,692.74,Debit,Groceries,UPI,2025,9,2025-09,False
+2025-09-16,Chai Point,191.15,Debit,Food,Debit Card,2025,9,2025-09,True
+2025-09-17,Zomato,393.05,Debit,Food,Credit Card,2025,9,2025-09,False
+2025-09-17,Local Kirana Store,217.99,Debit,Groceries,Credit Card,2025,9,2025-09,False
+2025-09-17,Broadband - ACT,769.47,Debit,Bills,UPI,2025,9,2025-09,False
+2025-09-17,Electricity Board,1079.36,Debit,Bills,UPI,2025,9,2025-09,False
+2025-09-18,swiggy,98.73,Debit,Food,UPI,2025,9,2025-09,False
+2025-09-18,swiggy,459.15,Debit,Food,UPI,2025,9,2025-09,False
+2025-09-19,SWIGGY,299.4,Debit,Food,UPI,2025,9,2025-09,False
+2025-09-19,Broadband - ACT,1050.81,Debit,Bills,Debit Card,2025,9,2025-09,False
+2025-09-19,Flipkart,1203.76,Debit,Shopping,UPI,2025,9,2025-09,False
+2025-09-19,Swiggy,368.04,Debit,Food,Credit Card,2025,9,2025-09,False
+2025-09-20,Local Clinic,2273.49,Debit,Health,UPI,2025,9,2025-09,False
+2025-09-20,McDonald's,597.98,Debit,Food,Credit Card,2025,9,2025-09,False
+2025-09-21,UBER,490.51,Debit,Transport,UPI,2025,9,2025-09,False
+2025-09-22,DMart,436.43,Debit,Groceries,Credit Card,2025,9,2025-09,False
+2025-09-22,Family Transfer,29368.17,Credit,Income,UPI,2025,9,2025-09,True
+2025-09-22,Spotify,432.17,Debit,Entertainment,Credit Card,2025,9,2025-09,False
+2025-09-23,Local Kirana Store,1453.37,Debit,Groceries,UPI,2025,9,2025-09,False
+2025-09-23,Steam Games,398.81,Debit,Entertainment,UPI,2025,9,2025-09,False
+2025-09-23,DMart,988.62,Debit,Groceries,NetBanking,2025,9,2025-09,False
+2025-09-23,Blinkit,2354.31,Debit,Groceries,NetBanking,2025,9,2025-09,False
+2025-09-23,BigBasket,1651.54,Debit,Groceries,UPI,2025,9,2025-09,False
+2025-09-24,BigBasket,1472.41,Debit,Groceries,UPI,2025,9,2025-09,False
+2025-09-24,Amazon,2459.3,Debit,Shopping,UPI,2025,9,2025-09,False
+2025-09-25,Zomato,230.48,Debit,Food,UPI,2025,9,2025-09,True
+2025-09-25,Broadband - ACT,680.29,Debit,Bills,NetBanking,2025,9,2025-09,False
+2025-09-26,swiggy,433.85,Debit,Food,Credit Card,2025,9,2025-09,True
+2025-09-26,Ola Cabs,438.57,Debit,Transport,UPI,2025,9,2025-09,False
+2025-09-26,BigBasket,925.54,Debit,Groceries,UPI,2025,9,2025-09,False
+2025-09-27,Chai Point,115.99,Debit,Food,Credit Card,2025,9,2025-09,False
+2025-09-27,Blinkit,1967.12,Debit,Groceries,UPI,2025,9,2025-09,False
+2025-09-27,McDonald's,223.87,Debit,Food,UPI,2025,9,2025-09,False
+2025-09-28,Metro Card Recharge,48.75,Debit,Transport,UPI,2025,9,2025-09,False
+2025-09-28,Reliance Fresh,2367.59,Debit,Groceries,NetBanking,2025,9,2025-09,False
+2025-09-28,Amazon,3238.91,Debit,Shopping,NetBanking,2025,9,2025-09,False
+2025-09-28,Swiggy,251.82,Debit,Food,Credit Card,2025,9,2025-09,False
+2025-09-29,Blinkit,358.22,Debit,Groceries,UPI,2025,9,2025-09,True
+2025-09-29,DMart,1504.92,Debit,Groceries,UPI,2025,9,2025-09,True
+2025-09-30,Uber,200.6,Debit,Transport,UPI,2025,9,2025-09,False
+2025-09-30,Ola Cabs,330.8,Debit,Transport,Credit Card,2025,9,2025-09,False
+2025-09-30,Ajio,302.69,Debit,Shopping,UPI,2025,9,2025-09,False
+2025-10-01,Salary Credit - Employer,28096.31,Credit,Income,NetBanking,2025,10,2025-10,False
+2025-10-03,Zomato*Order,596.84,Debit,Food,UPI,2025,10,2025-10,False
+2025-10-04,Water Bill,1770.9,Debit,Bills,Credit Card,2025,10,2025-10,False
+2025-10-04,Zepto,2090.87,Debit,Groceries,Debit Card,2025,10,2025-10,True
+2025-10-04,Zomato,442.54,Debit,Food,UPI,2025,10,2025-10,False
+2025-10-04,Rapido,211.04,Debit,Transport,Credit Card,2025,10,2025-10,True
+2025-10-05,Broadband - ACT,545.31,Debit,Bills,NetBanking,2025,10,2025-10,False
+2025-10-05,Rent Payment - Landlord,8000.0,Debit,Rent,UPI,2025,10,2025-10,False
+2025-10-05,McDonald's,530.76,Debit,Food,UPI,2025,10,2025-10,False
+2025-10-05,AMAZON.IN,2525.74,Debit,Shopping,UPI,2025,10,2025-10,False
+2025-10-06,Electronics Store - Laptop Purchase,41742.84995886217,Debit,Shopping,UPI,2025,10,2025-10,False
+2025-10-06,Water Bill,1520.83,Debit,Bills,NetBanking,2025,10,2025-10,False
+2025-10-07,Local Kirana Store,1116.47,Debit,Groceries,UPI,2025,10,2025-10,False
+2025-10-07,Uber,421.46,Debit,Transport,Debit Card,2025,10,2025-10,False
+2025-10-08,Dominos,418.07,Debit,Food,NetBanking,2025,10,2025-10,True
+2025-10-08,Blinkit,477.51,Debit,Groceries,UPI,2025,10,2025-10,False
+2025-10-08,ola,99.36,Debit,Transport,NetBanking,2025,10,2025-10,False
+2025-10-08,swiggy,279.18,Debit,Food,UPI,2025,10,2025-10,False
+2025-10-08,Rent Payment - Landlord,8000.0,Debit,Rent,UPI,2025,10,2025-10,False
+2025-10-09,Rent Payment - Landlord,8000.0,Debit,Rent,Debit Card,2025,10,2025-10,False
+2025-10-09,ola,383.44,Debit,Transport,Debit Card,2025,10,2025-10,False
+2025-10-09,Spotify,210.6,Debit,Entertainment,NetBanking,2025,10,2025-10,False
+2025-10-09,UBER,236.74,Debit,Transport,NetBanking,2025,10,2025-10,False
+2025-10-10,Amazon,1648.49,Debit,Shopping,Debit Card,2025,10,2025-10,False
+2025-10-10,SWIGGY,348.04,Debit,Food,NetBanking,2025,10,2025-10,False
+2025-10-11,Blinkit,935.33,Debit,Groceries,Credit Card,2025,10,2025-10,False
+2025-10-11,McDonald's,190.06,Debit,Food,UPI,2025,10,2025-10,False
+2025-10-11,Broadband - ACT,1890.63,Debit,Bills,UPI,2025,10,2025-10,False
+2025-10-11,Rent Payment - Landlord,8000.0,Debit,Rent,UPI,2025,10,2025-10,False
+2025-10-11,Blinkit,843.21,Debit,Groceries,Credit Card,2025,10,2025-10,False
+2025-10-11,ola,344.37,Debit,Transport,Debit Card,2025,10,2025-10,False
+2025-10-11,Family Transfer,22036.21,Credit,Income,Debit Card,2025,10,2025-10,True
+2025-10-12,Practo Consultation,1960.3,Debit,Health,Debit Card,2025,10,2025-10,False
+2025-10-12,McDonald's,458.84,Debit,Food,UPI,2025,10,2025-10,False
+2025-10-12,PVR Cinemas,312.94,Debit,Entertainment,UPI,2025,10,2025-10,False
+2025-10-12,Coursera,2327.1,Debit,Education,NetBanking,2025,10,2025-10,False
+2025-10-13,Book Store,4724.91,Debit,Education,UPI,2025,10,2025-10,False
+2025-10-13,Reliance Fresh,1236.18,Debit,Groceries,Debit Card,2025,10,2025-10,True
+2025-10-14,Jio Recharge,933.68,Debit,Bills,Credit Card,2025,10,2025-10,True
+2025-10-14,Reliance Fresh,902.37,Debit,Groceries,Credit Card,2025,10,2025-10,False
+2025-10-15,AMAZON.IN,3587.49,Debit,Shopping,UPI,2025,10,2025-10,False
+2025-10-15,Udemy,926.69,Debit,Education,Debit Card,2025,10,2025-10,False
+2025-10-15,Zepto,983.62,Debit,Groceries,UPI,2025,10,2025-10,False
+2025-10-15,Steam Games,134.2,Debit,Entertainment,UPI,2025,10,2025-10,False
+2025-10-15,Water Bill,1627.28,Debit,Bills,UPI,2025,10,2025-10,False
+2025-10-16,Spotify,252.81,Debit,Entertainment,Debit Card,2025,10,2025-10,False
+2025-10-16,McDonald's,368.69,Debit,Food,UPI,2025,10,2025-10,False
+2025-10-16,BigBasket,244.58,Debit,Groceries,Credit Card,2025,10,2025-10,False
+2025-10-17,UBER,252.4,Debit,Transport,NetBanking,2025,10,2025-10,False
+2025-10-18,Swiggy,231.91,Debit,Food,UPI,2025,10,2025-10,False
+2025-10-18,Local Clinic,2267.8,Debit,Health,Credit Card,2025,10,2025-10,False
+2025-10-18,Local Kirana Store,2387.02,Debit,Groceries,NetBanking,2025,10,2025-10,False
+2025-10-18,Electricity Board,218.27,Debit,Bills,UPI,2025,10,2025-10,False
+2025-10-18,Myntra,2795.33,Debit,Shopping,Debit Card,2025,10,2025-10,False
+2025-10-19,Myntra,2952.64,Debit,Shopping,UPI,2025,10,2025-10,True
+2025-10-19,Zepto,1603.76,Debit,Groceries,Debit Card,2025,10,2025-10,False
+2025-10-19,IRCTC,121.38,Debit,Transport,NetBanking,2025,10,2025-10,False
+2025-10-20,Chai Point,521.86,Debit,Food,UPI,2025,10,2025-10,False
+2025-10-20,Ajio,1630.09,Debit,Shopping,UPI,2025,10,2025-10,False
+2025-10-20,Broadband - ACT,771.14,Debit,Bills,Debit Card,2025,10,2025-10,False
+2025-10-20,Myntra,3101.8,Debit,Shopping,Credit Card,2025,10,2025-10,False
+2025-10-20,Coursera,2974.79,Debit,Education,Debit Card,2025,10,2025-10,False
+2025-10-21,Dominos,543.62,Debit,Food,Debit Card,2025,10,2025-10,False
+2025-10-21,Steam Games,324.9,Debit,Entertainment,Debit Card,2025,10,2025-10,False
+2025-10-21,Rapido,352.63,Debit,Transport,UPI,2025,10,2025-10,False
+2025-10-22,College Fee Payment,4285.67,Debit,Education,NetBanking,2025,10,2025-10,False
+2025-10-22,ola,204.17,Debit,Transport,Credit Card,2025,10,2025-10,False
+2025-10-22,Practo Consultation,1284.34,Debit,Health,Debit Card,2025,10,2025-10,False
+2025-10-23,Swiggy,357.75,Debit,Food,UPI,2025,10,2025-10,False
+2025-10-23,Swiggy,306.75,Debit,Food,Credit Card,2025,10,2025-10,False
+2025-10-23,Zepto,759.6,Debit,Groceries,NetBanking,2025,10,2025-10,False
+2025-10-24,UBER,464.51,Debit,Transport,Debit Card,2025,10,2025-10,False
+2025-10-24,UBER,434.9,Debit,Transport,Debit Card,2025,10,2025-10,True
+2025-10-24,Zomato,331.78,Debit,Food,NetBanking,2025,10,2025-10,False
+2025-10-25,Reliance Fresh,1312.04,Debit,Groceries,Debit Card,2025,10,2025-10,False
+2025-10-25,SWIGGY,506.04,Debit,Food,UPI,2025,10,2025-10,False
+2025-10-25,SWIGGY,301.08,Debit,Food,UPI,2025,10,2025-10,False
+2025-10-26,Apollo Pharmacy,2953.15,Debit,Health,UPI,2025,10,2025-10,False
+2025-10-26,Airtel Postpaid,558.43,Debit,Bills,UPI,2025,10,2025-10,False
+2025-10-27,Amazon,4774.4,Debit,Shopping,UPI,2025,10,2025-10,False
+2025-10-27,DMart,1666.62,Debit,Groceries,Credit Card,2025,10,2025-10,False
+2025-10-28,Udemy,4439.09,Debit,Education,Credit Card,2025,10,2025-10,False
+2025-10-28,Jio Recharge,956.11,Debit,Bills,Debit Card,2025,10,2025-10,False
+2025-10-28,Swiggy,324.76,Debit,Food,UPI,2025,10,2025-10,False
+2025-10-28,ola,182.76,Debit,Transport,Debit Card,2025,10,2025-10,False
+2025-10-29,Local Market,2672.46,Debit,Shopping,Credit Card,2025,10,2025-10,False
+2025-10-30,Swiggy,242.22,Debit,Food,NetBanking,2025,10,2025-10,False
+2025-10-30,Water Bill,429.73,Debit,Bills,Credit Card,2025,10,2025-10,False
+2025-10-31,Swiggy,208.59,Debit,Food,UPI,2025,10,2025-10,False
+2025-10-31,Uber,195.33,Debit,Transport,Debit Card,2025,10,2025-10,False
+2025-11-01,Salary Credit - Employer,27795.74,Credit,Income,NetBanking,2025,11,2025-11,False
+2025-11-03,McDonald's,196.84,Debit,Food,UPI,2025,11,2025-11,False
+2025-11-03,PharmEasy,1461.52,Debit,Health,UPI,2025,11,2025-11,False
+2025-11-03,Amazon,1375.94,Debit,Shopping,NetBanking,2025,11,2025-11,True
+2025-11-04,Book Store,2502.88,Debit,Education,UPI,2025,11,2025-11,False
+2025-11-05,Rent Payment - Landlord,8000.0,Debit,Rent,UPI,2025,11,2025-11,False
+2025-11-05,Amazon,2660.77,Debit,Shopping,Credit Card,2025,11,2025-11,False
+2025-11-06,Zomato,367.04,Debit,Food,UPI,2025,11,2025-11,False
+2025-11-07,Myntra,4632.78,Debit,Shopping,Credit Card,2025,11,2025-11,True
+2025-11-07,Amazon,1555.16,Debit,Shopping,UPI,2025,11,2025-11,False
+2025-11-08,Rent Payment - Landlord,8000.0,Debit,Rent,Debit Card,2025,11,2025-11,False
+2025-11-08,Electricity Board,1544.18,Debit,Bills,Debit Card,2025,11,2025-11,False
+2025-11-08,Flipkart,3292.1,Debit,Shopping,Credit Card,2025,11,2025-11,False
+2025-11-09,Ola Cabs,181.94,Debit,Transport,Debit Card,2025,11,2025-11,False
+2025-11-11,Airtel Postpaid,940.96,Debit,Bills,Debit Card,2025,11,2025-11,False
+2025-11-11,Local Clinic,1917.72,Debit,Health,Debit Card,2025,11,2025-11,False
+2025-11-12,Groww SIP,4675.13,Debit,Investment,UPI,2025,11,2025-11,False
+2025-11-12,Chai Point,593.58,Debit,Food,UPI,2025,11,2025-11,False
+2025-11-12,BookMyShow,361.76,Debit,Entertainment,UPI,2025,11,2025-11,False
+2025-11-13,Local Kirana Store,831.3,Debit,Groceries,Credit Card,2025,11,2025-11,True
+2025-11-13,IRCTC,335.42,Debit,Transport,UPI,2025,11,2025-11,True
+2025-11-14,AMAZON.IN,839.45,Debit,Shopping,UPI,2025,11,2025-11,False
+2025-11-15,Ola Cabs,150.0,Debit,Transport,UPI,2025,11,2025-11,False
+2025-11-15,UBER,283.13,Debit,Transport,UPI,2025,11,2025-11,False
+2025-11-16,AMAZON.IN,2739.13,Debit,Shopping,Debit Card,2025,11,2025-11,False
+2025-11-17,College Fee Payment,3615.43,Debit,Education,Debit Card,2025,11,2025-11,True
+2025-11-17,Metro Card Recharge,155.57,Debit,Transport,UPI,2025,11,2025-11,False
+2025-11-17,Electricity Board,1171.97,Debit,Bills,Debit Card,2025,11,2025-11,False
+2025-11-17,UBER,200.04,Debit,Transport,Debit Card,2025,11,2025-11,False
+2025-11-18,Metro Card Recharge,207.29,Debit,Transport,UPI,2025,11,2025-11,False
+2025-11-19,Ola Cabs,169.06,Debit,Transport,NetBanking,2025,11,2025-11,False
+2025-11-19,Zepto,1768.14,Debit,Groceries,UPI,2025,11,2025-11,False
+2025-11-19,PharmEasy,1210.62,Debit,Health,Debit Card,2025,11,2025-11,False
+2025-11-19,Coursera,2348.66,Debit,Education,Debit Card,2025,11,2025-11,False
+2025-11-20,Zomato*Order,469.46,Debit,Food,Credit Card,2025,11,2025-11,False
+2025-11-20,SWIGGY,532.84,Debit,Food,Credit Card,2025,11,2025-11,True
+2025-11-20,Apollo Pharmacy,298.42,Debit,Health,NetBanking,2025,11,2025-11,False
+2025-11-21,Zerodha,2899.23,Debit,Investment,NetBanking,2025,11,2025-11,False
+2025-11-21,Uber,421.11,Debit,Transport,Debit Card,2025,11,2025-11,False
+2025-11-21,Local Market,485.29,Debit,Shopping,Debit Card,2025,11,2025-11,True
+2025-11-22,Apollo Pharmacy,2621.17,Debit,Health,Debit Card,2025,11,2025-11,True
+2025-11-23,Chai Point,388.78,Debit,Food,UPI,2025,11,2025-11,False
+2025-11-23,PPF Deposit,8853.21,Debit,Investment,Debit Card,2025,11,2025-11,False
+2025-11-23,Zomato,162.36,Debit,Food,Credit Card,2025,11,2025-11,False
+2025-11-23,Zomato*Order,227.01,Debit,Food,Debit Card,2025,11,2025-11,False
+2025-11-23,Chai Point,554.98,Debit,Food,Debit Card,2025,11,2025-11,False
+2025-11-23,Water Bill,650.18,Debit,Bills,UPI,2025,11,2025-11,False
+2025-11-25,Apollo Pharmacy,2049.62,Debit,Health,UPI,2025,11,2025-11,False
+2025-11-25,Local Kirana Store,1716.12,Debit,Groceries,UPI,2025,11,2025-11,True
+2025-11-25,Rent Payment - Landlord,8000.0,Debit,Rent,UPI,2025,11,2025-11,False
+2025-11-26,IRCTC,415.75,Debit,Transport,UPI,2025,11,2025-11,False
+2025-11-27,Electricity Board,456.03,Debit,Bills,UPI,2025,11,2025-11,False
+2025-11-27,Blinkit,1549.96,Debit,Groceries,NetBanking,2025,11,2025-11,False
+2025-11-27,Zepto,1949.15,Debit,Groceries,UPI,2025,11,2025-11,False
+2025-11-28,Zepto,1311.38,Debit,Groceries,UPI,2025,11,2025-11,False
+2025-11-28,Spotify,147.94,Debit,Entertainment,Debit Card,2025,11,2025-11,False
+2025-11-28,Uber,427.17,Debit,Transport,UPI,2025,11,2025-11,True
+2025-11-29,Book Store,3581.78,Debit,Education,UPI,2025,11,2025-11,False
+2025-11-29,Swiggy,304.65,Debit,Food,UPI,2025,11,2025-11,False
+2025-11-29,Local Clinic,934.13,Debit,Health,Credit Card,2025,11,2025-11,False
+2025-11-29,Zomato*Order,95.05,Debit,Food,UPI,2025,11,2025-11,False
+2025-11-30,Zomato,217.57,Debit,Food,NetBanking,2025,11,2025-11,False
+2025-11-30,Water Bill,1249.68,Debit,Bills,UPI,2025,11,2025-11,False
+2025-11-30,Apollo Pharmacy,1858.58,Debit,Health,Debit Card,2025,11,2025-11,False
+2025-12-01,College Fee Payment,1152.61,Debit,Education,UPI,2025,12,2025-12,False
+2025-12-01,Steam Games,293.37,Debit,Entertainment,UPI,2025,12,2025-12,False
+2025-12-02,Salary Credit - Employer,23756.95,Credit,Income,NetBanking,2025,12,2025-12,False
+2025-12-02,Ajio,3718.04,Debit,Shopping,NetBanking,2025,12,2025-12,True
+2025-12-03,Myntra,966.81,Debit,Shopping,NetBanking,2025,12,2025-12,False
+2025-12-03,Water Bill,1818.68,Debit,Bills,UPI,2025,12,2025-12,False
+2025-12-03,Groww SIP,6964.92,Debit,Investment,NetBanking,2025,12,2025-12,False
+2025-12-04,Rent Payment - Landlord,8000.0,Debit,Rent,UPI,2025,12,2025-12,False
+2025-12-04,Reliance Fresh,993.9,Debit,Groceries,UPI,2025,12,2025-12,False
+2025-12-04,Metro Card Recharge,194.55,Debit,Transport,Credit Card,2025,12,2025-12,False
+2025-12-04,Steam Games,621.71,Debit,Entertainment,Debit Card,2025,12,2025-12,True
+2025-12-05,Amazon,1592.58,Debit,Shopping,NetBanking,2025,12,2025-12,False
+2025-12-05,Jio Recharge,226.75,Debit,Bills,UPI,2025,12,2025-12,False
+2025-12-05,Uber,384.45,Debit,Transport,UPI,2025,12,2025-12,True
+2025-12-06,Amazon,1547.23,Debit,Shopping,UPI,2025,12,2025-12,False
+2025-12-06,Ola Cabs,203.92,Debit,Transport,NetBanking,2025,12,2025-12,False
+2025-12-07,Family Transfer,16372.2,Credit,Income,Credit Card,2025,12,2025-12,False
+2025-12-07,Dominos,310.56,Debit,Food,UPI,2025,12,2025-12,True
+2025-12-08,Reliance Fresh,1689.6,Debit,Groceries,NetBanking,2025,12,2025-12,False
+2025-12-09,Family Transfer,30970.28,Credit,Income,UPI,2025,12,2025-12,False
+2025-12-09,Metro Card Recharge,299.83,Debit,Transport,Debit Card,2025,12,2025-12,False
+2025-12-09,ola,119.21,Debit,Transport,UPI,2025,12,2025-12,False
+2025-12-09,DMart,1816.21,Debit,Groceries,UPI,2025,12,2025-12,False
+2025-12-11,Local Market,2090.25,Debit,Shopping,Credit Card,2025,12,2025-12,False
+2025-12-11,Zomato*Order,468.69,Debit,Food,UPI,2025,12,2025-12,False
+2025-12-11,BookMyShow,183.11,Debit,Entertainment,Debit Card,2025,12,2025-12,False
+2025-12-13,DMart,2464.23,Debit,Groceries,UPI,2025,12,2025-12,False
+2025-12-13,Metro Card Recharge,36.54,Debit,Transport,Credit Card,2025,12,2025-12,True
+2025-12-14,Airtel Postpaid,1012.8,Debit,Bills,UPI,2025,12,2025-12,False
+2025-12-14,Freelance Payment,28721.95,Credit,Income,Debit Card,2025,12,2025-12,False
+2025-12-14,Rent Payment - Landlord,8000.0,Debit,Rent,UPI,2025,12,2025-12,False
+2025-12-17,Ola Cabs,309.02,Debit,Transport,Debit Card,2025,12,2025-12,False
+2025-12-17,Rapido,129.99,Debit,Transport,NetBanking,2025,12,2025-12,False
+2025-12-17,Myntra,3145.51,Debit,Shopping,UPI,2025,12,2025-12,False
+2025-12-18,Ajio,1849.34,Debit,Shopping,UPI,2025,12,2025-12,False
+2025-12-19,Local Kirana Store,1319.26,Debit,Groceries,NetBanking,2025,12,2025-12,True
+2025-12-20,Water Bill,995.68,Debit,Bills,UPI,2025,12,2025-12,False
+2025-12-20,Water Bill,934.61,Debit,Bills,UPI,2025,12,2025-12,False
+2025-12-20,BigBasket,2233.74,Debit,Groceries,Credit Card,2025,12,2025-12,False
+2025-12-20,Reliance Fresh,395.4,Debit,Groceries,UPI,2025,12,2025-12,False
+2025-12-20,Apollo Pharmacy,2794.34,Debit,Health,NetBanking,2025,12,2025-12,False
+2025-12-21,Rent Payment - Landlord,8000.0,Debit,Rent,Debit Card,2025,12,2025-12,False
+2025-12-21,Myntra,4830.92,Debit,Shopping,UPI,2025,12,2025-12,False
+2025-12-22,Dominos,469.49,Debit,Food,UPI,2025,12,2025-12,False
+2025-12-22,Apollo Pharmacy,1165.27,Debit,Health,NetBanking,2025,12,2025-12,False
+2025-12-22,Metro Card Recharge,472.33,Debit,Transport,Debit Card,2025,12,2025-12,True
+2025-12-22,Swiggy,122.42,Debit,Food,Debit Card,2025,12,2025-12,False
+2025-12-24,Groww SIP,8833.57,Debit,Investment,UPI,2025,12,2025-12,False
+2025-12-24,IRCTC,102.63,Debit,Transport,Debit Card,2025,12,2025-12,False
+2025-12-24,Zerodha,5774.34,Debit,Investment,Debit Card,2025,12,2025-12,False
+2025-12-26,BookMyShow,190.21,Debit,Entertainment,UPI,2025,12,2025-12,False
+2025-12-27,Flipkart,1073.36,Debit,Shopping,Debit Card,2025,12,2025-12,False
+2025-12-27,DMart,2200.3,Debit,Groceries,UPI,2025,12,2025-12,False
+2025-12-28,Netflix,557.95,Debit,Entertainment,Credit Card,2025,12,2025-12,False
+2025-12-29,Reliance Fresh,2434.43,Debit,Groceries,Credit Card,2025,12,2025-12,False
+2025-12-29,Zomato,359.52,Debit,Food,Debit Card,2025,12,2025-12,False
+2025-12-30,PPF Deposit,5268.41,Debit,Investment,UPI,2025,12,2025-12,False
+2025-12-31,Swiggy,99.35,Debit,Food,Debit Card,2025,12,2025-12,False
+2025-12-31,IRCTC,379.28,Debit,Transport,Credit Card,2025,12,2025-12,False
+2025-12-31,Apollo Pharmacy,934.13,Debit,Health,UPI,2025,12,2025-12,False
+2025-12-31,Local Clinic,2552.66,Debit,Health,Credit Card,2025,12,2025-12,False
+2025-12-31,Zomato*Order,189.84,Debit,Food,UPI,2025,12,2025-12,False
+2025-12-31,Local Market,2045.93,Debit,Shopping,NetBanking,2025,12,2025-12,True
+2026-01-01,McDonald's,399.7,Debit,Food,UPI,2026,1,2026-01,False
+2026-01-01,Rapido,455.75,Debit,Transport,UPI,2026,1,2026-01,False
+2026-01-02,Salary Credit - Employer,23666.45,Credit,Income,NetBanking,2026,1,2026-01,False
+2026-01-02,Book Store,2163.33,Debit,Education,UPI,2026,1,2026-01,False
+2026-01-02,Chai Point,232.59,Debit,Food,UPI,2026,1,2026-01,False
+2026-01-02,Steam Games,652.25,Debit,Entertainment,NetBanking,2026,1,2026-01,False
+2026-01-02,Steam Games,563.01,Debit,Entertainment,Credit Card,2026,1,2026-01,False
+2026-01-03,Practo Consultation,1789.94,Debit,Health,UPI,2026,1,2026-01,False
+2026-01-03,Zomato*Order,415.23,Debit,Food,UPI,2026,1,2026-01,False
+2026-01-03,DMart,1374.11,Debit,Groceries,UPI,2026,1,2026-01,False
+2026-01-03,Broadband - ACT,1362.84,Debit,Bills,Debit Card,2026,1,2026-01,False
+2026-01-04,Rent Payment - Landlord,8000.0,Debit,Rent,UPI,2026,1,2026-01,False
+2026-01-04,Ola Cabs,292.24,Debit,Transport,Debit Card,2026,1,2026-01,False
+2026-01-04,Groww SIP,8298.7,Debit,Investment,UPI,2026,1,2026-01,False
+2026-01-05,McDonald's,164.37,Debit,Food,NetBanking,2026,1,2026-01,False
+2026-01-05,Steam Games,710.97,Debit,Entertainment,UPI,2026,1,2026-01,False
+2026-01-05,Reliance Fresh,1948.5,Debit,Groceries,NetBanking,2026,1,2026-01,False
+2026-01-05,Reliance Fresh,2111.41,Debit,Groceries,UPI,2026,1,2026-01,False
+2026-01-08,Airtel Postpaid,385.05,Debit,Bills,UPI,2026,1,2026-01,False
+2026-01-08,SWIGGY,306.55,Debit,Food,Debit Card,2026,1,2026-01,False
+2026-01-08,IRCTC,485.71,Debit,Transport,Credit Card,2026,1,2026-01,False
+2026-01-09,Practo Consultation,460.98,Debit,Health,UPI,2026,1,2026-01,True
+2026-01-10,IRCTC,404.27,Debit,Transport,Credit Card,2026,1,2026-01,False
+2026-01-10,Spotify,349.24,Debit,Entertainment,UPI,2026,1,2026-01,False
+2026-01-10,Apollo Pharmacy,343.24,Debit,Health,UPI,2026,1,2026-01,False
+2026-01-10,SWIGGY,320.11,Debit,Food,UPI,2026,1,2026-01,True
+2026-01-10,Zomato*Order,311.88,Debit,Food,NetBanking,2026,1,2026-01,False
+2026-01-11,Netflix,753.29,Debit,Entertainment,Credit Card,2026,1,2026-01,False
+2026-01-11,Local Kirana Store,547.2,Debit,Groceries,UPI,2026,1,2026-01,False
+2026-01-12,McDonald's,211.9,Debit,Food,UPI,2026,1,2026-01,False
+2026-01-12,Amazon,1751.67,Debit,Shopping,UPI,2026,1,2026-01,False
+2026-01-12,BigBasket,716.44,Debit,Groceries,UPI,2026,1,2026-01,False
+2026-01-12,Uber,143.33,Debit,Transport,NetBanking,2026,1,2026-01,True
+2026-01-13,Uber,39.8,Debit,Transport,UPI,2026,1,2026-01,False
+2026-01-13,Ajio,2474.74,Debit,Shopping,Credit Card,2026,1,2026-01,False
+2026-01-14,Zomato,412.25,Debit,Food,Credit Card,2026,1,2026-01,False
+2026-01-14,Swiggy,89.75,Debit,Food,UPI,2026,1,2026-01,False
+2026-01-15,Broadband - ACT,1031.02,Debit,Bills,UPI,2026,1,2026-01,False
+2026-01-15,Zepto,1405.36,Debit,Groceries,Credit Card,2026,1,2026-01,True
+2026-01-16,Metro Card Recharge,120.24,Debit,Transport,UPI,2026,1,2026-01,False
+2026-01-16,IRCTC,326.92,Debit,Transport,UPI,2026,1,2026-01,False
+2026-01-16,UBER,355.27,Debit,Transport,UPI,2026,1,2026-01,False
+2026-01-17,Local Market,3002.72,Debit,Shopping,NetBanking,2026,1,2026-01,False
+2026-01-17,Steam Games,392.48,Debit,Entertainment,UPI,2026,1,2026-01,False
+2026-01-17,Zerodha,6815.14,Debit,Investment,UPI,2026,1,2026-01,False
+2026-01-18,Electricity Board,1881.73,Debit,Bills,NetBanking,2026,1,2026-01,False
+2026-01-18,Metro Card Recharge,252.5,Debit,Transport,UPI,2026,1,2026-01,False
+2026-01-19,Local Clinic,1272.83,Debit,Health,NetBanking,2026,1,2026-01,False
+2026-01-20,Electricity Board,1056.13,Debit,Bills,UPI,2026,1,2026-01,False
+2026-01-21,Rapido,328.59,Debit,Transport,Credit Card,2026,1,2026-01,False
+2026-01-22,AMAZON.IN,3440.61,Debit,Shopping,Credit Card,2026,1,2026-01,False
+2026-01-23,Rapido,470.86,Debit,Transport,UPI,2026,1,2026-01,False
+2026-01-23,Zepto,2111.55,Debit,Groceries,NetBanking,2026,1,2026-01,False
+2026-01-24,Spotify,405.81,Debit,Entertainment,Debit Card,2026,1,2026-01,True
+2026-01-24,ola,236.68,Debit,Transport,Debit Card,2026,1,2026-01,True
+2026-01-24,Ajio,3856.39,Debit,Shopping,UPI,2026,1,2026-01,False
+2026-01-25,Amazon,1654.08,Debit,Shopping,UPI,2026,1,2026-01,False
+2026-01-26,Local Kirana Store,1232.53,Debit,Groceries,Credit Card,2026,1,2026-01,False
+2026-01-26,College Fee Payment,986.43,Debit,Education,UPI,2026,1,2026-01,True
+2026-01-26,Local Market,1843.84,Debit,Shopping,UPI,2026,1,2026-01,False
+2026-01-26,College Fee Payment,688.27,Debit,Education,Debit Card,2026,1,2026-01,True
+2026-01-27,Chai Point,438.6,Debit,Food,UPI,2026,1,2026-01,False
+2026-01-27,Uber,455.42,Debit,Transport,Credit Card,2026,1,2026-01,False
+2026-01-27,Zerodha,5060.15,Debit,Investment,UPI,2026,1,2026-01,False
+2026-01-27,Dominos,414.25,Debit,Food,NetBanking,2026,1,2026-01,False
+2026-01-28,Zomato*Order,489.82,Debit,Food,Credit Card,2026,1,2026-01,False
+2026-01-28,Myntra,1758.29,Debit,Shopping,UPI,2026,1,2026-01,False
+2026-01-28,Local Kirana Store,1710.1,Debit,Groceries,Credit Card,2026,1,2026-01,False
+2026-01-29,PPF Deposit,1369.2,Debit,Investment,Credit Card,2026,1,2026-01,False
+2026-01-29,Zepto,2120.76,Debit,Groceries,UPI,2026,1,2026-01,False
+2026-01-29,AMAZON.IN,3948.27,Debit,Shopping,UPI,2026,1,2026-01,False
+2026-01-30,Dominos,227.1,Debit,Food,Debit Card,2026,1,2026-01,False
+2026-01-31,College Fee Payment,3383.46,Debit,Education,NetBanking,2026,1,2026-01,False
+2026-01-31,Zerodha,5734.54,Debit,Investment,Credit Card,2026,1,2026-01,False
+2026-02-01,BigBasket,1892.05,Debit,Groceries,Debit Card,2026,2,2026-02,False
+2026-02-01,Salary Credit - Employer,27734.77,Credit,Income,NetBanking,2026,2,2026-02,False
+2026-02-01,IRCTC,264.08,Debit,Transport,NetBanking,2026,2,2026-02,False
+2026-02-02,Zomato,377.74,Debit,Food,NetBanking,2026,2,2026-02,False
+2026-02-02,Blinkit,316.24,Debit,Groceries,Debit Card,2026,2,2026-02,False
+2026-02-02,BigBasket,867.49,Debit,Groceries,Debit Card,2026,2,2026-02,False
+2026-02-02,Local Market,3042.56,Debit,Shopping,UPI,2026,2,2026-02,False
+2026-02-03,SWIGGY,240.83,Debit,Food,NetBanking,2026,2,2026-02,False
+2026-02-03,ola,353.65,Debit,Transport,UPI,2026,2,2026-02,False
+2026-02-03,Local Clinic,2450.49,Debit,Health,UPI,2026,2,2026-02,False
+2026-02-03,Rent Payment - Landlord,8000.0,Debit,Rent,UPI,2026,2,2026-02,False
+2026-02-04,Ajio,1530.35,Debit,Shopping,UPI,2026,2,2026-02,True
+2026-02-04,IRCTC,490.55,Debit,Transport,Credit Card,2026,2,2026-02,False
+2026-02-05,Jio Recharge,1955.15,Debit,Bills,Debit Card,2026,2,2026-02,True
+2026-02-05,Electricity Board,1780.33,Debit,Bills,Credit Card,2026,2,2026-02,False
+2026-02-05,Rent Payment - Landlord,8000.0,Debit,Rent,UPI,2026,2,2026-02,True
+2026-02-05,Netflix,146.13,Debit,Entertainment,NetBanking,2026,2,2026-02,False
+2026-02-05,Jio Recharge,1727.6,Debit,Bills,NetBanking,2026,2,2026-02,False
+2026-02-06,Coursera,3396.04,Debit,Education,NetBanking,2026,2,2026-02,False
+2026-02-08,Local Clinic,2891.79,Debit,Health,UPI,2026,2,2026-02,False
+2026-02-08,Blinkit,2365.42,Debit,Groceries,UPI,2026,2,2026-02,False
+2026-02-09,PPF Deposit,6860.17,Debit,Investment,Credit Card,2026,2,2026-02,False
+2026-02-09,Reliance Fresh,487.89,Debit,Groceries,UPI,2026,2,2026-02,False
+2026-02-10,Rapido,427.59,Debit,Transport,UPI,2026,2,2026-02,False
+2026-02-10,Local Market,2569.84,Debit,Shopping,NetBanking,2026,2,2026-02,False
+2026-02-11,swiggy,564.31,Debit,Food,UPI,2026,2,2026-02,False
+2026-02-11,DMart,2349.9,Debit,Groceries,UPI,2026,2,2026-02,False
+2026-02-12,AMAZON.IN,2900.15,Debit,Shopping,UPI,2026,2,2026-02,False
+2026-02-12,McDonald's,346.8,Debit,Food,NetBanking,2026,2,2026-02,False
+2026-02-12,Electricity Board,999.09,Debit,Bills,UPI,2026,2,2026-02,False
+2026-02-12,Ajio,2170.76,Debit,Shopping,NetBanking,2026,2,2026-02,False
+2026-02-12,Water Bill,281.44,Debit,Bills,UPI,2026,2,2026-02,False
+2026-02-13,Reliance Fresh,1350.18,Debit,Groceries,UPI,2026,2,2026-02,False
+2026-02-13,Amazon,2675.59,Debit,Shopping,UPI,2026,2,2026-02,False
+2026-02-14,SWIGGY,149.65,Debit,Food,UPI,2026,2,2026-02,True
+2026-02-14,UBER,265.86,Debit,Transport,Credit Card,2026,2,2026-02,False
+2026-02-15,Dominos,497.9,Debit,Food,Credit Card,2026,2,2026-02,False
+2026-02-15,Swiggy,243.12,Debit,Food,UPI,2026,2,2026-02,True
+2026-02-15,ola,125.89,Debit,Transport,Credit Card,2026,2,2026-02,False
+2026-02-15,Ajio,2644.17,Debit,Shopping,UPI,2026,2,2026-02,False
+2026-02-15,Zomato,143.71,Debit,Food,Debit Card,2026,2,2026-02,False
+2026-02-16,Local Market,2769.74,Debit,Shopping,UPI,2026,2,2026-02,False
+2026-02-17,Amazon,3312.64,Debit,Shopping,Credit Card,2026,2,2026-02,True
+2026-02-18,Jio Recharge,1175.91,Debit,Bills,UPI,2026,2,2026-02,False
+2026-02-18,Ola Cabs,471.31,Debit,Transport,UPI,2026,2,2026-02,False
+2026-02-18,Groww SIP,4080.94,Debit,Investment,UPI,2026,2,2026-02,False
+2026-02-19,Zomato*Order,254.91,Debit,Food,Credit Card,2026,2,2026-02,True
+2026-02-19,Local Market,1709.02,Debit,Shopping,UPI,2026,2,2026-02,False
+2026-02-19,ola,45.22,Debit,Transport,UPI,2026,2,2026-02,False
+2026-02-20,Electricity Board,1071.52,Debit,Bills,UPI,2026,2,2026-02,True
+2026-02-20,Local Market,3940.65,Debit,Shopping,Debit Card,2026,2,2026-02,True
+2026-02-20,Airtel Postpaid,714.04,Debit,Bills,Debit Card,2026,2,2026-02,False
+2026-02-21,Freelance Payment,34600.55,Credit,Income,UPI,2026,2,2026-02,False
+2026-02-21,Dominos,118.57,Debit,Food,Debit Card,2026,2,2026-02,False
+2026-02-21,Flipkart,3979.65,Debit,Shopping,Credit Card,2026,2,2026-02,False
+2026-02-22,Local Market,2511.76,Debit,Shopping,Credit Card,2026,2,2026-02,False
+2026-02-23,Spotify,593.2,Debit,Entertainment,UPI,2026,2,2026-02,False
+2026-02-23,Udemy,948.99,Debit,Education,UPI,2026,2,2026-02,False
+2026-02-24,Steam Games,318.21,Debit,Entertainment,UPI,2026,2,2026-02,False
+2026-02-24,Dominos,593.77,Debit,Food,UPI,2026,2,2026-02,False
+2026-02-25,Zerodha,4334.86,Debit,Investment,Credit Card,2026,2,2026-02,False
+2026-02-25,ola,288.43,Debit,Transport,Credit Card,2026,2,2026-02,False
+2026-02-25,Airtel Postpaid,1939.28,Debit,Bills,Debit Card,2026,2,2026-02,False
+2026-02-26,Dominos,326.35,Debit,Food,Debit Card,2026,2,2026-02,False
+2026-02-26,Electronics Store - Laptop Purchase,26873.520299409767,Debit,Shopping,UPI,2026,2,2026-02,False
+2026-02-26,Zomato,152.22,Debit,Food,Debit Card,2026,2,2026-02,False
+2026-02-26,Rapido,369.18,Debit,Transport,UPI,2026,2,2026-02,False
+2026-02-27,Amazon,883.56,Debit,Shopping,UPI,2026,2,2026-02,True
+2026-02-27,Practo Consultation,2779.4,Debit,Health,UPI,2026,2,2026-02,False
+2026-02-28,IRCTC,458.46,Debit,Transport,Credit Card,2026,2,2026-02,False
+2026-02-28,DMart,370.32,Debit,Groceries,UPI,2026,2,2026-02,False
+2026-02-28,Local Kirana Store,1782.5,Debit,Groceries,UPI,2026,2,2026-02,False
+2026-03-02,BigBasket,1174.5,Debit,Groceries,NetBanking,2026,3,2026-03,False
+2026-03-02,Salary Credit - Employer,24615.62,Credit,Income,NetBanking,2026,3,2026-03,True
+2026-03-02,Airtel Postpaid,683.23,Debit,Bills,NetBanking,2026,3,2026-03,True
+2026-03-03,Water Bill,1818.0,Debit,Bills,Debit Card,2026,3,2026-03,False
+2026-03-03,Rent Payment - Landlord,8000.0,Debit,Rent,Debit Card,2026,3,2026-03,False
+2026-03-04,Airtel Postpaid,1308.22,Debit,Bills,Credit Card,2026,3,2026-03,False
+2026-03-04,Jio Recharge,943.94,Debit,Bills,NetBanking,2026,3,2026-03,False
+2026-03-04,Rapido,59.03,Debit,Transport,Credit Card,2026,3,2026-03,False
+2026-03-05,Airtel Postpaid,1059.42,Debit,Bills,UPI,2026,3,2026-03,False
+2026-03-05,PVR Cinemas,458.79,Debit,Entertainment,Debit Card,2026,3,2026-03,False
+2026-03-05,Electronics Store - Laptop Purchase,19517.253049650142,Debit,Shopping,NetBanking,2026,3,2026-03,False
+2026-03-05,BigBasket,1358.96,Debit,Groceries,UPI,2026,3,2026-03,False
+2026-03-05,Rent Payment - Landlord,8000.0,Debit,Rent,UPI,2026,3,2026-03,False
+2026-03-06,Zomato*Order,290.82,Debit,Food,Credit Card,2026,3,2026-03,False
+2026-03-06,McDonald's,479.87,Debit,Food,NetBanking,2026,3,2026-03,False
+2026-03-07,BigBasket,2355.47,Debit,Groceries,NetBanking,2026,3,2026-03,False
+2026-03-07,Broadband - ACT,1062.91,Debit,Bills,UPI,2026,3,2026-03,True
+2026-03-08,PPF Deposit,4722.04,Debit,Investment,UPI,2026,3,2026-03,False
+2026-03-08,BookMyShow,310.54,Debit,Entertainment,UPI,2026,3,2026-03,False
+2026-03-08,UBER,479.96,Debit,Transport,Debit Card,2026,3,2026-03,False
+2026-03-08,McDonald's,312.3,Debit,Food,UPI,2026,3,2026-03,False
+2026-03-08,Netflix,243.46,Debit,Entertainment,UPI,2026,3,2026-03,False
+2026-03-09,Local Clinic,659.15,Debit,Health,UPI,2026,3,2026-03,False
+2026-03-09,Water Bill,1669.62,Debit,Bills,NetBanking,2026,3,2026-03,False
+2026-03-09,Zomato,185.74,Debit,Food,NetBanking,2026,3,2026-03,False
+2026-03-10,Rent Payment - Landlord,8000.0,Debit,Rent,Debit Card,2026,3,2026-03,False
+2026-03-13,ola,67.72,Debit,Transport,NetBanking,2026,3,2026-03,False
+2026-03-13,BigBasket,1209.61,Debit,Groceries,Credit Card,2026,3,2026-03,False
+2026-03-14,Zerodha,6876.04,Debit,Investment,Debit Card,2026,3,2026-03,False
+2026-03-14,Dominos,445.01,Debit,Food,Debit Card,2026,3,2026-03,False
+2026-03-14,Coursera,4446.55,Debit,Education,UPI,2026,3,2026-03,False
+2026-03-14,Broadband - ACT,1157.48,Debit,Bills,UPI,2026,3,2026-03,True
+2026-03-15,Ajio,3462.01,Debit,Shopping,UPI,2026,3,2026-03,False
+2026-03-15,PVR Cinemas,473.09,Debit,Entertainment,UPI,2026,3,2026-03,False
+2026-03-15,Reliance Fresh,467.35,Debit,Groceries,UPI,2026,3,2026-03,False
+2026-03-15,IRCTC,334.69,Debit,Transport,NetBanking,2026,3,2026-03,False
+2026-03-17,Apollo Pharmacy,1395.57,Debit,Health,NetBanking,2026,3,2026-03,False
+2026-03-17,McDonald's,146.22,Debit,Food,UPI,2026,3,2026-03,False
+2026-03-18,Electronics Store - Laptop Purchase,6469.087471690056,Debit,Shopping,UPI,2026,3,2026-03,False
+2026-03-19,PharmEasy,1656.31,Debit,Health,UPI,2026,3,2026-03,False
+2026-03-19,Groww SIP,7505.94,Debit,Investment,UPI,2026,3,2026-03,False
+2026-03-19,Local Kirana Store,933.48,Debit,Groceries,Credit Card,2026,3,2026-03,False
+2026-03-20,Myntra,3458.51,Debit,Shopping,UPI,2026,3,2026-03,False
+2026-03-20,Spotify,699.16,Debit,Entertainment,Debit Card,2026,3,2026-03,False
+2026-03-21,swiggy,432.95,Debit,Food,Credit Card,2026,3,2026-03,False
+2026-03-21,PharmEasy,2594.83,Debit,Health,UPI,2026,3,2026-03,False
+2026-03-22,BigBasket,2281.92,Debit,Groceries,UPI,2026,3,2026-03,False
+2026-03-23,College Fee Payment,851.85,Debit,Education,UPI,2026,3,2026-03,False
+2026-03-23,Blinkit,743.5,Debit,Groceries,NetBanking,2026,3,2026-03,False
+2026-03-23,BookMyShow,390.84,Debit,Entertainment,UPI,2026,3,2026-03,False
+2026-03-24,College Fee Payment,2551.67,Debit,Education,UPI,2026,3,2026-03,False
+2026-03-24,Ajio,3698.65,Debit,Shopping,UPI,2026,3,2026-03,False
+2026-03-25,DMart,1437.24,Debit,Groceries,UPI,2026,3,2026-03,False
+2026-03-25,IRCTC,94.61,Debit,Transport,Credit Card,2026,3,2026-03,False
+2026-03-25,UBER,483.04,Debit,Transport,UPI,2026,3,2026-03,False
+2026-03-25,Spotify,272.47,Debit,Entertainment,Credit Card,2026,3,2026-03,False
+2026-03-26,Netflix,561.8,Debit,Entertainment,Credit Card,2026,3,2026-03,False
+2026-03-26,Dominos,233.41,Debit,Food,NetBanking,2026,3,2026-03,False
+2026-03-27,Udemy,2165.87,Debit,Education,Debit Card,2026,3,2026-03,True
+2026-03-27,Local Clinic,1100.89,Debit,Health,UPI,2026,3,2026-03,False
+2026-03-28,Amazon,642.09,Debit,Shopping,Credit Card,2026,3,2026-03,False
+2026-03-28,Practo Consultation,2151.97,Debit,Health,Debit Card,2026,3,2026-03,True
+2026-03-28,Chai Point,272.96,Debit,Food,Credit Card,2026,3,2026-03,False
+2026-03-29,Zomato*Order,99.48,Debit,Food,UPI,2026,3,2026-03,False
+2026-03-30,Water Bill,630.8,Debit,Bills,UPI,2026,3,2026-03,False
+2026-03-30,Rent Payment - Landlord,8000.0,Debit,Rent,Credit Card,2026,3,2026-03,False
+2026-03-30,Amazon,4920.07,Debit,Shopping,UPI,2026,3,2026-03,False
+2026-03-30,BigBasket,1968.07,Debit,Groceries,NetBanking,2026,3,2026-03,False
+2026-03-30,Chai Point,206.15,Debit,Food,Credit Card,2026,3,2026-03,False
+2026-03-30,Swiggy,544.99,Debit,Food,Debit Card,2026,3,2026-03,False
+2026-03-31,Flipkart,3323.59,Debit,Shopping,Debit Card,2026,3,2026-03,False
+2026-03-31,PPF Deposit,4783.26,Debit,Investment,Debit Card,2026,3,2026-03,False
+2026-03-31,Blinkit,1842.52,Debit,Groceries,UPI,2026,3,2026-03,False
+2026-03-31,Book Store,2257.59,Debit,Education,Credit Card,2026,3,2026-03,False
+2026-04-01,SWIGGY,521.57,Debit,Food,NetBanking,2026,4,2026-04,False
+2026-04-01,Zomato*Order,573.39,Debit,Food,UPI,2026,4,2026-04,False
+2026-04-01,Broadband - ACT,1915.41,Debit,Bills,Debit Card,2026,4,2026-04,False
+2026-04-01,Salary Credit - Employer,25733.06,Credit,Income,NetBanking,2026,4,2026-04,False
+2026-04-01,Jio Recharge,1157.98,Debit,Bills,Debit Card,2026,4,2026-04,False
+2026-04-01,Dominos,579.96,Debit,Food,Credit Card,2026,4,2026-04,False
+2026-04-03,Netflix,286.85,Debit,Entertainment,Debit Card,2026,4,2026-04,False
+2026-04-03,Rent Payment - Landlord,8000.0,Debit,Rent,UPI,2026,4,2026-04,False
+2026-04-03,Myntra,3929.19,Debit,Shopping,UPI,2026,4,2026-04,False
+2026-04-04,Myntra,423.43,Debit,Shopping,UPI,2026,4,2026-04,False
+2026-04-04,Electricity Board,629.43,Debit,Bills,UPI,2026,4,2026-04,False
+2026-04-04,Groww SIP,1094.93,Debit,Investment,UPI,2026,4,2026-04,True
+2026-04-04,Apollo Pharmacy,2329.97,Debit,Health,NetBanking,2026,4,2026-04,False
+2026-04-05,Ajio,1921.35,Debit,Shopping,UPI,2026,4,2026-04,False
+2026-04-06,Electricity Board,451.93,Debit,Bills,Credit Card,2026,4,2026-04,False
+2026-04-06,Ajio,1855.65,Debit,Shopping,Debit Card,2026,4,2026-04,False
+2026-04-06,Ajio,2019.23,Debit,Shopping,UPI,2026,4,2026-04,False
+2026-04-06,SWIGGY,304.11,Debit,Food,Credit Card,2026,4,2026-04,False
+2026-04-07,Coursera,4535.98,Debit,Education,NetBanking,2026,4,2026-04,True
+2026-04-08,McDonald's,516.11,Debit,Food,UPI,2026,4,2026-04,False
+2026-04-09,Local Clinic,235.03,Debit,Health,UPI,2026,4,2026-04,False
+2026-04-09,Airtel Postpaid,1554.19,Debit,Bills,UPI,2026,4,2026-04,False
+2026-04-09,Electricity Board,1574.05,Debit,Bills,Debit Card,2026,4,2026-04,False
+2026-04-09,UBER,171.53,Debit,Transport,Debit Card,2026,4,2026-04,False
+2026-04-10,Electronics Store - Laptop Purchase,7284.188280715721,Debit,Shopping,UPI,2026,4,2026-04,False
+2026-04-10,McDonald's,159.25,Debit,Food,UPI,2026,4,2026-04,False
+2026-04-12,Myntra,2138.33,Debit,Shopping,NetBanking,2026,4,2026-04,False
+2026-04-12,Flipkart,4273.93,Debit,Shopping,Credit Card,2026,4,2026-04,False
+2026-04-12,swiggy,242.18,Debit,Food,Debit Card,2026,4,2026-04,False
+2026-04-12,Uber,148.3,Debit,Transport,UPI,2026,4,2026-04,False
+2026-04-13,Reliance Fresh,1193.25,Debit,Groceries,NetBanking,2026,4,2026-04,False
+2026-04-13,UBER,485.3,Debit,Transport,UPI,2026,4,2026-04,False
+2026-04-13,Practo Consultation,2291.27,Debit,Health,UPI,2026,4,2026-04,False
+2026-04-13,McDonald's,95.18,Debit,Food,Credit Card,2026,4,2026-04,False
+2026-04-13,McDonald's,485.17,Debit,Food,NetBanking,2026,4,2026-04,False
+2026-04-14,swiggy,223.5,Debit,Food,UPI,2026,4,2026-04,False
+2026-04-14,Ola Cabs,462.66,Debit,Transport,UPI,2026,4,2026-04,False
+2026-04-15,Netflix,793.48,Debit,Entertainment,Debit Card,2026,4,2026-04,False
+2026-04-15,IRCTC,179.89,Debit,Transport,UPI,2026,4,2026-04,False
+2026-04-15,McDonald's,373.8,Debit,Food,NetBanking,2026,4,2026-04,False
+2026-04-15,Coursera,4049.12,Debit,Education,NetBanking,2026,4,2026-04,True
+2026-04-16,Jio Recharge,1721.59,Debit,Bills,NetBanking,2026,4,2026-04,True
+2026-04-16,Steam Games,343.16,Debit,Entertainment,UPI,2026,4,2026-04,False
+2026-04-16,Rapido,56.37,Debit,Transport,UPI,2026,4,2026-04,False
+2026-04-17,Netflix,621.57,Debit,Entertainment,UPI,2026,4,2026-04,False
+2026-04-17,Zomato,317.13,Debit,Food,UPI,2026,4,2026-04,False
+2026-04-17,Ajio,4640.43,Debit,Shopping,NetBanking,2026,4,2026-04,False
+2026-04-17,SWIGGY,157.43,Debit,Food,UPI,2026,4,2026-04,False
+2026-04-17,Local Kirana Store,1483.38,Debit,Groceries,NetBanking,2026,4,2026-04,False
+2026-04-18,Zomato*Order,588.29,Debit,Food,UPI,2026,4,2026-04,False
+2026-04-19,PharmEasy,1611.2,Debit,Health,NetBanking,2026,4,2026-04,True
+2026-04-19,Water Bill,1607.55,Debit,Bills,UPI,2026,4,2026-04,False
+2026-04-19,Coursera,4987.15,Debit,Education,UPI,2026,4,2026-04,False
+2026-04-19,Local Clinic,1345.7,Debit,Health,UPI,2026,4,2026-04,False
+2026-04-20,Water Bill,1310.0,Debit,Bills,Debit Card,2026,4,2026-04,False
+2026-04-20,Ajio,3986.86,Debit,Shopping,Debit Card,2026,4,2026-04,False
+2026-04-20,Groww SIP,4497.75,Debit,Investment,Debit Card,2026,4,2026-04,False
+2026-04-20,Ajio,2164.5,Debit,Shopping,UPI,2026,4,2026-04,False
+2026-04-20,Dominos,572.59,Debit,Food,UPI,2026,4,2026-04,True
+2026-04-21,Metro Card Recharge,138.77,Debit,Transport,NetBanking,2026,4,2026-04,False
+2026-04-21,Airtel Postpaid,1302.82,Debit,Bills,Credit Card,2026,4,2026-04,True
+2026-04-21,Rapido,479.9,Debit,Transport,Credit Card,2026,4,2026-04,False
+2026-04-21,PPF Deposit,4596.56,Debit,Investment,UPI,2026,4,2026-04,False
+2026-04-22,Local Market,2323.69,Debit,Shopping,UPI,2026,4,2026-04,False
+2026-04-22,McDonald's,339.64,Debit,Food,NetBanking,2026,4,2026-04,False
+2026-04-22,Ola Cabs,435.44,Debit,Transport,Credit Card,2026,4,2026-04,False
+2026-04-22,Blinkit,554.53,Debit,Groceries,Debit Card,2026,4,2026-04,False
+2026-04-24,PPF Deposit,5415.36,Debit,Investment,UPI,2026,4,2026-04,False
+2026-04-24,Airtel Postpaid,901.32,Debit,Bills,UPI,2026,4,2026-04,False
+2026-04-25,Family Transfer,15633.69,Credit,Income,Debit Card,2026,4,2026-04,False
+2026-04-26,Local Clinic,2600.38,Debit,Health,Debit Card,2026,4,2026-04,False
+2026-04-26,Amazon,4912.2,Debit,Shopping,Debit Card,2026,4,2026-04,False
+2026-04-26,Zomato*Order,596.14,Debit,Food,Debit Card,2026,4,2026-04,False
+2026-04-26,Uber,485.16,Debit,Transport,NetBanking,2026,4,2026-04,False
+2026-04-26,Metro Card Recharge,214.68,Debit,Transport,UPI,2026,4,2026-04,False
+2026-04-26,Zerodha,4645.43,Debit,Investment,UPI,2026,4,2026-04,False
+2026-04-27,Local Kirana Store,2150.09,Debit,Groceries,NetBanking,2026,4,2026-04,False
+2026-04-27,SWIGGY,427.47,Debit,Food,UPI,2026,4,2026-04,False
+2026-04-27,Flipkart,1965.87,Debit,Shopping,Debit Card,2026,4,2026-04,False
+2026-04-27,Reliance Fresh,765.18,Debit,Groceries,Credit Card,2026,4,2026-04,False
+2026-04-27,Ajio,4292.38,Debit,Shopping,NetBanking,2026,4,2026-04,False
+2026-04-27,Metro Card Recharge,433.97,Debit,Transport,Credit Card,2026,4,2026-04,False
+2026-04-28,Steam Games,781.66,Debit,Entertainment,Credit Card,2026,4,2026-04,False
+2026-04-28,Rapido,134.0,Debit,Transport,UPI,2026,4,2026-04,False
+2026-04-29,Electricity Board,1177.46,Debit,Bills,NetBanking,2026,4,2026-04,False
+2026-04-30,BookMyShow,241.39,Debit,Entertainment,UPI,2026,4,2026-04,False
+2026-04-30,Local Market,3197.64,Debit,Shopping,Debit Card,2026,4,2026-04,False
+2026-04-30,McDonald's,120.01,Debit,Food,UPI,2026,4,2026-04,False
+2026-04-30,swiggy,591.63,Debit,Food,UPI,2026,4,2026-04,False
+2026-04-30,Zomato*Order,399.53,Debit,Food,UPI,2026,4,2026-04,True
+2026-05-01,SWIGGY,216.34,Debit,Food,UPI,2026,5,2026-05,False
+2026-05-01,Local Market,4285.09,Debit,Shopping,NetBanking,2026,5,2026-05,False
+2026-05-01,Netflix,595.24,Debit,Entertainment,NetBanking,2026,5,2026-05,False
+2026-05-02,swiggy,286.1,Debit,Food,UPI,2026,5,2026-05,False
+2026-05-02,Zerodha,3200.32,Debit,Investment,Debit Card,2026,5,2026-05,True
+2026-05-02,Salary Credit - Employer,24245.15,Credit,Income,NetBanking,2026,5,2026-05,False
+2026-05-03,Rent Payment - Landlord,8000.0,Debit,Rent,UPI,2026,5,2026-05,True
+2026-05-03,Local Market,3735.38,Debit,Shopping,Debit Card,2026,5,2026-05,False
+2026-05-03,Blinkit,1705.55,Debit,Groceries,UPI,2026,5,2026-05,True
+2026-05-04,Netflix,537.95,Debit,Entertainment,Debit Card,2026,5,2026-05,False
+2026-05-05,Rapido,300.16,Debit,Transport,Debit Card,2026,5,2026-05,False
+2026-05-05,PharmEasy,2163.05,Debit,Health,UPI,2026,5,2026-05,False
+2026-05-06,BookMyShow,359.68,Debit,Entertainment,NetBanking,2026,5,2026-05,True
+2026-05-06,Myntra,3195.91,Debit,Shopping,UPI,2026,5,2026-05,False
+2026-05-06,UBER,467.65,Debit,Transport,UPI,2026,5,2026-05,False
+2026-05-08,Swiggy,103.91,Debit,Food,UPI,2026,5,2026-05,False
+2026-05-08,Amazon,2648.04,Debit,Shopping,Credit Card,2026,5,2026-05,False
+2026-05-08,Jio Recharge,1533.4,Debit,Bills,UPI,2026,5,2026-05,True
+2026-05-09,ola,276.21,Debit,Transport,UPI,2026,5,2026-05,False
+2026-05-10,Swiggy,426.36,Debit,Food,NetBanking,2026,5,2026-05,False
+2026-05-10,Zomato,534.9,Debit,Food,UPI,2026,5,2026-05,False
+2026-05-10,Jio Recharge,1457.62,Debit,Bills,NetBanking,2026,5,2026-05,False
+2026-05-11,AMAZON.IN,4901.3,Debit,Shopping,UPI,2026,5,2026-05,True
+2026-05-11,Blinkit,1458.81,Debit,Groceries,UPI,2026,5,2026-05,False
+2026-05-12,Swiggy,565.64,Debit,Food,UPI,2026,5,2026-05,True
+2026-05-13,Netflix,460.45,Debit,Entertainment,UPI,2026,5,2026-05,False
+2026-05-13,Zepto,1239.58,Debit,Groceries,NetBanking,2026,5,2026-05,False
+2026-05-13,UBER,71.99,Debit,Transport,UPI,2026,5,2026-05,False
+2026-05-14,Airtel Postpaid,1379.87,Debit,Bills,NetBanking,2026,5,2026-05,False
+2026-05-14,Myntra,3598.51,Debit,Shopping,UPI,2026,5,2026-05,False
+2026-05-15,swiggy,317.39,Debit,Food,Debit Card,2026,5,2026-05,False
+2026-05-15,Electricity Board,1910.46,Debit,Bills,UPI,2026,5,2026-05,True
+2026-05-15,Local Kirana Store,221.36,Debit,Groceries,NetBanking,2026,5,2026-05,False
+2026-05-16,Amazon,4338.99,Debit,Shopping,UPI,2026,5,2026-05,False
+2026-05-16,Zomato,120.53,Debit,Food,Credit Card,2026,5,2026-05,False
+2026-05-16,PVR Cinemas,198.66,Debit,Entertainment,NetBanking,2026,5,2026-05,False
+2026-05-16,Apollo Pharmacy,495.95,Debit,Health,Debit Card,2026,5,2026-05,False
+2026-05-17,Book Store,1646.49,Debit,Education,NetBanking,2026,5,2026-05,False
+2026-05-17,PharmEasy,1860.09,Debit,Health,UPI,2026,5,2026-05,False
+2026-05-18,swiggy,166.77,Debit,Food,UPI,2026,5,2026-05,False
+2026-05-18,Airtel Postpaid,1281.8,Debit,Bills,NetBanking,2026,5,2026-05,False
+2026-05-18,Zomato,230.11,Debit,Food,Debit Card,2026,5,2026-05,False
+2026-05-18,Myntra,2700.79,Debit,Shopping,Credit Card,2026,5,2026-05,False
+2026-05-18,Dominos,507.76,Debit,Food,UPI,2026,5,2026-05,False
+2026-05-18,PVR Cinemas,252.2,Debit,Entertainment,Debit Card,2026,5,2026-05,False
+2026-05-19,SWIGGY,459.6,Debit,Food,UPI,2026,5,2026-05,False
+2026-05-19,Myntra,3281.18,Debit,Shopping,NetBanking,2026,5,2026-05,True
+2026-05-19,Netflix,344.92,Debit,Entertainment,UPI,2026,5,2026-05,False
+2026-05-19,Metro Card Recharge,227.81,Debit,Transport,Credit Card,2026,5,2026-05,False
+2026-05-20,Broadband - ACT,474.82,Debit,Bills,UPI,2026,5,2026-05,False
+2026-05-20,Swiggy,418.01,Debit,Food,Debit Card,2026,5,2026-05,False
+2026-05-21,Broadband - ACT,338.73,Debit,Bills,Debit Card,2026,5,2026-05,False
+2026-05-21,PPF Deposit,5454.73,Debit,Investment,NetBanking,2026,5,2026-05,True
+2026-05-21,Spotify,795.05,Debit,Entertainment,UPI,2026,5,2026-05,False
+2026-05-21,BookMyShow,137.25,Debit,Entertainment,UPI,2026,5,2026-05,False
+2026-05-21,UBER,381.69,Debit,Transport,Debit Card,2026,5,2026-05,True
+2026-05-23,Steam Games,344.79,Debit,Entertainment,NetBanking,2026,5,2026-05,True
+2026-05-24,BookMyShow,720.38,Debit,Entertainment,UPI,2026,5,2026-05,False
+2026-05-25,Apollo Pharmacy,2454.48,Debit,Health,UPI,2026,5,2026-05,False
+2026-05-25,Ola Cabs,78.37,Debit,Transport,Credit Card,2026,5,2026-05,False
+2026-05-26,Groww SIP,2258.47,Debit,Investment,UPI,2026,5,2026-05,False
+2026-05-26,Myntra,1915.58,Debit,Shopping,NetBanking,2026,5,2026-05,False
+2026-05-26,Swiggy,475.75,Debit,Food,UPI,2026,5,2026-05,False
+2026-05-27,IRCTC,238.61,Debit,Transport,UPI,2026,5,2026-05,False
+2026-05-27,ola,129.57,Debit,Transport,UPI,2026,5,2026-05,False
+2026-05-27,Dominos,314.52,Debit,Food,UPI,2026,5,2026-05,False
+2026-05-28,Myntra,1321.05,Debit,Shopping,UPI,2026,5,2026-05,False
+2026-05-28,Electricity Board,314.0,Debit,Bills,Credit Card,2026,5,2026-05,False
+2026-05-28,Uber,228.49,Debit,Transport,UPI,2026,5,2026-05,False
+2026-05-28,Ola Cabs,413.86,Debit,Transport,Debit Card,2026,5,2026-05,False
+2026-05-28,College Fee Payment,3382.71,Debit,Education,NetBanking,2026,5,2026-05,False
+2026-05-29,Dominos,235.61,Debit,Food,Debit Card,2026,5,2026-05,False
+2026-05-30,Reliance Fresh,667.35,Debit,Groceries,UPI,2026,5,2026-05,False
+2026-05-30,Local Kirana Store,503.4,Debit,Groceries,NetBanking,2026,5,2026-05,False
+2026-05-31,Water Bill,1977.26,Debit,Bills,UPI,2026,5,2026-05,False
+2026-05-31,Spotify,624.82,Debit,Entertainment,Debit Card,2026,5,2026-05,True
+2026-05-31,Chai Point,260.29,Debit,Food,Credit Card,2026,5,2026-05,False
+2026-05-31,Blinkit,2173.44,Debit,Groceries,NetBanking,2026,5,2026-05,False
+2026-06-01,DMart,2389.82,Debit,Groceries,Debit Card,2026,6,2026-06,True
+2026-06-01,Salary Credit - Employer,25379.51,Credit,Income,NetBanking,2026,6,2026-06,False
+2026-06-01,Chai Point,271.84,Debit,Food,UPI,2026,6,2026-06,False
+2026-06-01,DMart,1410.83,Debit,Groceries,UPI,2026,6,2026-06,False
+2026-06-02,Local Kirana Store,1957.31,Debit,Groceries,UPI,2026,6,2026-06,False
+2026-06-02,Electricity Board,239.44,Debit,Bills,Credit Card,2026,6,2026-06,False
+2026-06-02,Reliance Fresh,2394.38,Debit,Groceries,UPI,2026,6,2026-06,False
+2026-06-02,Electronics Store - Laptop Purchase,8293.527869957092,Debit,Shopping,Debit Card,2026,6,2026-06,False
+2026-06-04,Salary Credit - Employer,19957.14,Credit,Income,UPI,2026,6,2026-06,False
+2026-06-04,Dominos,102.2,Debit,Food,Debit Card,2026,6,2026-06,False
+2026-06-04,Reliance Fresh,2354.38,Debit,Groceries,UPI,2026,6,2026-06,False
+2026-06-04,Spotify,107.38,Debit,Entertainment,UPI,2026,6,2026-06,False
+2026-06-05,PharmEasy,118.5,Debit,Health,Debit Card,2026,6,2026-06,False
+2026-06-05,Uber,364.48,Debit,Transport,UPI,2026,6,2026-06,False
+2026-06-05,Zomato,485.57,Debit,Food,Credit Card,2026,6,2026-06,False
+2026-06-05,Rent Payment - Landlord,8000.0,Debit,Rent,UPI,2026,6,2026-06,False
+2026-06-05,Ajio,3294.91,Debit,Shopping,Debit Card,2026,6,2026-06,False
+2026-06-06,McDonald's,264.05,Debit,Food,UPI,2026,6,2026-06,False
+2026-06-06,Airtel Postpaid,1012.32,Debit,Bills,UPI,2026,6,2026-06,False
+2026-06-06,SWIGGY,313.77,Debit,Food,UPI,2026,6,2026-06,False
+2026-06-06,ola,374.03,Debit,Transport,Credit Card,2026,6,2026-06,False
+2026-06-07,Jio Recharge,1153.67,Debit,Bills,UPI,2026,6,2026-06,False
+2026-06-07,Rapido,409.03,Debit,Transport,UPI,2026,6,2026-06,False
+2026-06-07,Ajio,4232.48,Debit,Shopping,Debit Card,2026,6,2026-06,False
+2026-06-08,Ajio,745.21,Debit,Shopping,UPI,2026,6,2026-06,True
+2026-06-08,Uber,193.0,Debit,Transport,UPI,2026,6,2026-06,False
+2026-06-08,Practo Consultation,2030.04,Debit,Health,UPI,2026,6,2026-06,False
+2026-06-09,Blinkit,2388.82,Debit,Groceries,UPI,2026,6,2026-06,False
+2026-06-09,ola,430.67,Debit,Transport,UPI,2026,6,2026-06,False
+2026-06-09,College Fee Payment,4182.19,Debit,Education,Credit Card,2026,6,2026-06,False
+2026-06-11,Uber,171.83,Debit,Transport,UPI,2026,6,2026-06,False
+2026-06-11,Electricity Board,1014.96,Debit,Bills,UPI,2026,6,2026-06,False
+2026-06-12,Myntra,4695.47,Debit,Shopping,UPI,2026,6,2026-06,False
+2026-06-12,BigBasket,790.31,Debit,Groceries,UPI,2026,6,2026-06,False
+2026-06-12,Apollo Pharmacy,2143.16,Debit,Health,NetBanking,2026,6,2026-06,False
+2026-06-12,McDonald's,436.87,Debit,Food,NetBanking,2026,6,2026-06,False
+2026-06-12,Rapido,483.38,Debit,Transport,UPI,2026,6,2026-06,False
+2026-06-13,Jio Recharge,988.8,Debit,Bills,Debit Card,2026,6,2026-06,False
+2026-06-14,PPF Deposit,8126.58,Debit,Investment,Debit Card,2026,6,2026-06,False
+2026-06-14,Swiggy,424.47,Debit,Food,UPI,2026,6,2026-06,True
+2026-06-15,Electricity Board,220.51,Debit,Bills,UPI,2026,6,2026-06,True
+2026-06-15,Electricity Board,1954.2,Debit,Bills,UPI,2026,6,2026-06,False
+2026-06-16,BookMyShow,480.71,Debit,Entertainment,Debit Card,2026,6,2026-06,False
+2026-06-16,AMAZON.IN,478.43,Debit,Shopping,UPI,2026,6,2026-06,False
+2026-06-16,Groww SIP,8935.94,Debit,Investment,UPI,2026,6,2026-06,False
+2026-06-17,Groww SIP,1440.56,Debit,Investment,UPI,2026,6,2026-06,False
+2026-06-17,Rapido,181.15,Debit,Transport,UPI,2026,6,2026-06,False
+2026-06-17,Chai Point,265.87,Debit,Food,Credit Card,2026,6,2026-06,False
+2026-06-20,Dominos,193.89,Debit,Food,UPI,2026,6,2026-06,False
+2026-06-21,Zomato,540.02,Debit,Food,Credit Card,2026,6,2026-06,True
+2026-06-21,Dominos,516.58,Debit,Food,UPI,2026,6,2026-06,False
+2026-06-21,AMAZON.IN,1686.99,Debit,Shopping,Debit Card,2026,6,2026-06,False
+2026-06-22,Rapido,453.91,Debit,Transport,UPI,2026,6,2026-06,False
+2026-06-23,IRCTC,168.42,Debit,Transport,UPI,2026,6,2026-06,False
+2026-06-23,Udemy,3592.64,Debit,Education,Credit Card,2026,6,2026-06,False
+2026-06-23,Airtel Postpaid,1943.74,Debit,Bills,NetBanking,2026,6,2026-06,False
+2026-06-24,Flipkart,3226.77,Debit,Shopping,Debit Card,2026,6,2026-06,False
+2026-06-25,Practo Consultation,2550.05,Debit,Health,UPI,2026,6,2026-06,True
+2026-06-25,Zerodha,6915.73,Debit,Investment,NetBanking,2026,6,2026-06,False
+2026-06-25,Airtel Postpaid,399.66,Debit,Bills,Credit Card,2026,6,2026-06,False
+2026-06-25,ola,394.67,Debit,Transport,NetBanking,2026,6,2026-06,False
+2026-06-26,Dominos,463.81,Debit,Food,UPI,2026,6,2026-06,False
+2026-06-26,Reliance Fresh,244.92,Debit,Groceries,Debit Card,2026,6,2026-06,False
+2026-06-27,Amazon,2553.6,Debit,Shopping,Credit Card,2026,6,2026-06,False
+2026-06-27,McDonald's,456.7,Debit,Food,Debit Card,2026,6,2026-06,False
+2026-06-27,SWIGGY,448.66,Debit,Food,NetBanking,2026,6,2026-06,False
+2026-06-27,Zomato*Order,446.45,Debit,Food,Credit Card,2026,6,2026-06,False
+2026-06-28,Blinkit,924.52,Debit,Groceries,Debit Card,2026,6,2026-06,False
+2026-06-29,Zepto,541.85,Debit,Groceries,Credit Card,2026,6,2026-06,True
+2026-06-29,Zomato,519.66,Debit,Food,Debit Card,2026,6,2026-06,True
+2026-06-29,Salary Credit - Employer,27919.74,Credit,Income,UPI,2026,6,2026-06,False
+2026-06-30,Zomato*Order,502.63,Debit,Food,UPI,2026,6,2026-06,False
+2026-06-30,Dominos,500.58,Debit,Food,Credit Card,2026,6,2026-06,False

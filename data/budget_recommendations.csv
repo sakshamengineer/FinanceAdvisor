@@ -1,0 +1,11 @@
+Category,Tier,HistoricalAvgMonthly,LatestMonthSpend,RecommendedBudget,OverspendingAlert,PctChangeVsAvg
+Shopping,Major Expense,37620.75,29207.39,39501.79,False,-22.4
+Rent,Moderate Expense,18666.67,8000.0,18666.67,False,-57.1
+Investment,Moderate Expense,17398.74,25418.81,17398.74,True,46.1
+Groceries,Moderate Expense,13386.4,15397.14,13386.4,False,15.0
+Bills,Minor/Discretionary,8986.09,8927.3,8087.48,False,-0.7
+Health,Minor/Discretionary,8595.8,6841.75,7736.22,False,-20.4
+Education,Moderate Expense,8369.01,7774.83,8369.01,False,-7.1
+Food,Minor/Discretionary,5168.15,7153.62,4651.34,True,38.4
+Transport,Minor/Discretionary,3143.24,3624.57,2828.92,False,15.3
+Entertainment,Minor/Discretionary,2464.4,588.09,2217.96,False,-76.1
